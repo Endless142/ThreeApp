@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\bin\Debug\net6.0\ThreeApp.exe
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\bin\Debug\net6.0\ThreeApp.deps.json
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\bin\Debug\net6.0\ThreeApp.runtimeconfig.json
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\bin\Debug\net6.0\ThreeApp.dll
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\bin\Debug\net6.0\ThreeApp.pdb
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.AssemblyInfo.cs
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.dll
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\refint\ThreeApp.dll
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.pdb
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ThreeApp.genruntimeconfig.cache
+C:\Users\Максим\Desktop\С#\ThreeApp\ThreeApp\obj\Debug\net6.0\ref\ThreeApp.dll
